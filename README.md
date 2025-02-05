@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug: attempting to access a property of an object that is null or undefined. The bug occurs because of asynchronous operations, specifically fetching user data. The solution implements error handling and conditional rendering to gracefully manage this scenario.
