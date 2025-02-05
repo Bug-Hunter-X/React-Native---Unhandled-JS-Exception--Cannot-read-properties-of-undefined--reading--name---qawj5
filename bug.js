@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of an object that is null or undefined. This is a common error in React Native, but it can be difficult to track down. In this example, the user object is null because the async operation to fetch user data has not yet completed.  Trying to access user.name before the data is available causes the error.
